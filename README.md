@@ -17,19 +17,19 @@ samples, guidance on mobile development, and a full API reference.
 
 <b>Design of Meal App</b>
 
-   <b>Home Screen</b>
+<b>*****Home Screen*****</b>
 
 ![Home Screen](https://user-images.githubusercontent.com/85746731/224713938-12353373-baf6-4117-b083-a497d82380a7.png)
 
-   <b>Categories Screen</b>
+<b>*****Categories Screen*****</b>
 
 ![Categories](https://user-images.githubusercontent.com/85746731/224713948-84bde4d9-212e-4e9e-a505-18f080e4df44.png)
 
-   <b>Food Details</b>
+<b>*****Food Details*****</b>
 
 ![Food Details](https://user-images.githubusercontent.com/85746731/224713920-bc59cbd4-b6a0-478e-ae16-9b57d8c71419.png)
 
-   <b>Drawer</b>
+<b>*****Drawer*****</b>
 
 ![Drawer](https://user-images.githubusercontent.com/85746731/224713932-61a9cd9a-792f-40c7-b27b-9eb3fa1ea108.png)
 
